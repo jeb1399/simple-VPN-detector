@@ -1,5 +1,5 @@
 # Setup
-Copy `<script src="https://github.com/jeb1399/simple-VPN-detector/detector.js"></script>` into the bottom of your `<body>` section of your website just before `</body>`
+Copy `<script src="https://raw.githubusercontent.com/jeb1399/simple-VPN-detector/refs/heads/main/detector.js"></script>` into the bottom of your `<body>` section of your website just before `</body>`
 
 # Additional settings
   **Change the popup window: **
