@@ -261,7 +261,7 @@
       '<li>Accessing from a blocked region may violate local laws and site rules.</li>' +
       '</ul>' +
       '<p style="font-size:0.97em;color:#666;">Site owners: customize this message by setting <b>window.vpndetector.changePopup.innerHTML</b> before this script loads.</p>' +
-      '<h6 style="margin-top:1.2em;font-size:0.88em;"><a href="https://github.com/jeb1399/simple-VPN-detector/" target="_blank" style="color:#0077cc;">VPN Detector</a> | <a href="https://github.com/jeb1399/simple-VPN-detector/README.md" style="color:#0077cc;">Instructions</a></h6>'
+      '<h6 style="margin-top:1.2em;font-size:0.88em;"><a href="https://github.com/jeb1399/simple-VPN-detector/" target="_blank" style="color:#0077cc;">VPN Detector</a> | <a href="https://github.com/jeb1399/simple-VPN-detector/blob/main/README.md" style="color:#0077cc;">Instructions</a></h6>'
     );
   }
 
